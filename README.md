@@ -34,7 +34,7 @@
 
 ### 📫 Connect With Me
 
-- 💼 [LinkedIn Profile]()
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/krishna-rai-070330442/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGLOAuUOMQ1iFxuKrNnyW6Q%3D%3D)
 - 🤝 [Xing Profile]()
 - 🧩 [LeetCode Profile]()
 - 🌐 [Personal Portfolio Website]()
