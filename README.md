@@ -17,7 +17,7 @@
 
 ### 🛠 Tech Stack & Tools
 
-- **Programming Languages:** C++, C, HTML5, CSS3
+- **Programming Languages:** C++, C, HTML5, CSS
 - **Concepts:** Data Structures & Algorithms, OOP, Memory Management, Embedded Logic
 - **Tools & Platforms:** Git, GitHub, VS Code
 - **Platforms:** LeetCode, HackerRank
