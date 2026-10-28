@@ -1,7 +1,6 @@
 # Hi there, I'm [KRISHNA RAI] 👋
 
-🎓 **Engineering Student in GERMANY** focused on **C++ Development**, **Smart Systems**, and **Robotics**.  
-🚀 Currently completing T-Kurs (Studienkolleg) and targeting Smart Systems / Mechanical Engineering at TU Bergakademie Freibeg.
+🎓 **Engineering Student ** focused on **C++ Development**, **Smart Systems**, and **Robotics**.  
 
 ---
 
@@ -10,7 +9,7 @@
 - 💻 **Core Expertise:** C++, Object-Oriented Programming, Data Structures & Algorithms.
 - ⚙️ **Engineering Focus:** Embedded Systems, Control Systems, Microcontrollers, and Industrial Automation.
 - 🧩 **Competitive Coding:** Solved **400+ problems on LeetCode** with a focus on C++ efficiency and memory optimization.
-- 🗣️ **Languages:** English (Fluent), German (B2 Level), Hindi (Native).
+- 🗣️ **Languages:** English, German (B2 Level), Hindi (Native).
 - 💼 **Looking for:** *Werkstudent* (Working Student) or *HiWi* (Research Assistant) roles in C++, Robotics, or Software Testing.
 
 ---
